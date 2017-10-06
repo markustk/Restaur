@@ -1,5 +1,5 @@
 /**
- * Created by markusthomassenkoteng on 04.10.2017.
+ * Created by markusthomassenkoteng on 01.10.2017.
  */
 function getText() {
     $.get('rest/services/bookings/display', function (data) {
